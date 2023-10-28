@@ -1,17 +1,17 @@
 
-# Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri / Enkrypton 👋
+# Hi Guys, I'm Kamal Fikri Nabawi or usually called Fikri 👋
 
-## I'm a Student, UI/UX Designer and also Front-End Developer + Gamer
+## I'm a fresh graduate of informatics engineering, UI/UX Designer and also Front-End Developer
 - 🎨 I really like design jobs
 - 🎨 I Also like design using photoshop and also illustrator
 - 👨‍💻 I really like developing Front-End Websites
-- 🎮 Games? Of course I also really like playing games. Especially strategy games like Dota 2
-- 🎯 My goal in 2021 is that I am ready with my internship in 2022
+- 🎮 Games? Exercise? Of course I also really like playing games. Especially strategy games like Dota 2 and I also really like golf.
+- 🎯 My goal in 2021 is that I am ready with my internship in 2022 and my job in the future (2023+)
 ---
 
 ## Another about me (Self-Description) :
 - 🙋‍♂️ I am a person who really likes to join organizations
-- 👱 What about my personality? I am an extrovert and have an ENFP-A personality (from 16personalities)
+- 👱 What about my personality? I am an extrovert and have an ENFP-A personality (from 16 personalities)
 - 🤣 I really like to joke with my friends, both close friends and far friends 🤣
 - 🤙 I am a disciplined person, easy to communicate, and hard worker
 - ⚡ Fun fact: I love to sing
