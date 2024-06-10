@@ -1008,7 +1008,7 @@
      content: "";
  }
  
- .skill-bars li .percent5   { width: 5%; }
+ /* .skill-bars li .percent5   { width: 5%; }
  .skill-bars li .percent10  { width: 10%; }
  .skill-bars li .percent15  { width: 15%; }
  .skill-bars li .percent20  { width: 20%; }
@@ -1027,7 +1027,7 @@
  .skill-bars li .percent85  { width: 85%; }
  .skill-bars li .percent90  { width: 90%; }
  .skill-bars li .percent95  { width: 95%; }
- .skill-bars li .percent100 { width: 100%; }
+ .skill-bars li .percent100 { width: 100%; } */
  
  
  /** 
